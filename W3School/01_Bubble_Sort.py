@@ -1,4 +1,5 @@
-
+#Bubble Sort 
+# Bubble Sort is an algorithm that sorts an array from the lowest value to the highest value.
 
 # To implement the Bubble Sort algorithm in a programming language, we need:
 
@@ -35,3 +36,14 @@ for i in range(n-1):
 
 print("Sorted array:", my_array)
 
+
+# Bubble Sort Time Complexity
+# 
+# # The Bubble Sort algorithm loops through every value in the array, comparing it to the value next to it. So for an array of 
+# n values, there must be n such comparisons in one loop.
+
+# And after one loop, the array is looped through again and again n times.
+
+# This means there are n⋅n
+#comparisons done in total, so the time complexity for Bubble Sort is:
+# O(n^2)
