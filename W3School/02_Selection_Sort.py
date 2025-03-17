@@ -34,10 +34,8 @@
 # all following elements must be shifted one place down to make up for the removal.
 
 
-
 # Solution
-
-# Instead of all the shifting, swap the lowest value (5) with the first value (64) like below.
+# Instead of all the shifting, swap the lowest value  with the first value .
 
 my_array = [64, 34, 25, 5, 22, 11, 90, 12]
 

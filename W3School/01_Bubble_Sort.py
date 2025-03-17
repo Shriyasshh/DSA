@@ -9,7 +9,6 @@
 
 my_array = [64, 34, 25, 12, 22, 11, 90, 5]
 my_array = [4,7,2]
-# Code 1:
 
 
 # n = len(my_array)
@@ -20,9 +19,8 @@ my_array = [4,7,2]
 
 # print("Sorted array:", my_array)
 
-# Code 2:
-    #Improvised Bubble Sort 
-    # Imagine that the array is almost sorted already
+#Improvised Bubble Sort 
+# Imagine that the array is almost sorted already
 
 n = len(my_array)
 for i in range(n-1):
