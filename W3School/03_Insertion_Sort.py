@@ -2,9 +2,15 @@
 # The Insertion Sort algorithm uses one part of the array to hold the sorted values,
 # and the other part of the array to hold values that are not sorted yet.
 
-# Insertion Sort Implementation
-# 1.An array with values to sort.
+# How it works:
 
+# 1.Take the first value from the unsorted part of the array.
+# 2.Move the value into the correct place in the sorted part of the array.
+# 3.Go through the unsorted part of the array again as many times as there are values.
+
+# Insertion Sort Implementation
+
+# 1.An array with values to sort.
 # 2.An outer loop that picks a value to be sorted. For an array with n values, 
 # this outer loop skips the first value, and must run n−1 times.
 
