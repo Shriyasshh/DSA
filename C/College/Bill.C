@@ -13,5 +13,4 @@
  scanf("%d",&Q2);
  Sum=(P1*Q1)+(P2*Q2);
  printf("Total is %d",Sum);
- getch();
  }
